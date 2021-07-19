@@ -1,6 +1,6 @@
 {
   "name": "@arwes/animated",
-  "version": "1.0.0-alpha.19",
+  "version": "1.0.0",
   "publishConfig": {
     "access": "public"
   },
@@ -36,6 +36,6 @@
     "react": "17.x"
   },
   "devDependencies": {
-    "@arwes/animator": "^1.0.0-alpha.19"
+    "@arwes/animator": "^1.0.0"
   }
 }
